@@ -11,7 +11,7 @@ public class NullPointerProgram {
 			a.printStackTrace();
 		}
 		
-		System.out.println("END");
+		System.out.println("ajith");
 		
 	}
 
